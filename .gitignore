@@ -1,50 +1,20 @@
 # Ignore Python virtual environment
+venv/
 
-/venv/
+# Ignore node_modules and related files for forage-jpmc-swe-task-2 and forage-jpmc-swe-task-3
+/forage-jpmc-swe-task-*/node_modules/
+/forage-jpmc-swe-task-*/.pnp/
+/forage-jpmc-swe-task-*/.pnp.js
 
-# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+# Ignore coverage and build directories for both tasks
+/forage-jpmc-swe-task-*/coverage/
+/forage-jpmc-swe-task-*/build/
 
-# dependencies
-/forage-jpmc-swe-task-2/node_modules/
-/forage-jpmc-swe-task-2/.pnp/
-/forage-jpmc-swe-task-2/.pnp.js
+# Ignore miscellaneous files for both tasks
+/forage-jpmc-swe-task-*/.DS_Store
+/forage-jpmc-swe-task-*/.env*.local
 
-# testing
-/forage-jpmc-swe-task-2/coverage/
-
-# production
-/forage-jpmc-swe-task-2/build
-
-# misc
-/forage-jpmc-swe-task-2/.DS_Store
-/forage-jpmc-swe-task-2/.env.local
-/forage-jpmc-swe-task-2/.env.development.local
-/forage-jpmc-swe-task-2/.env.test.local
-/forage-jpmc-swe-task-2/.env.production.local
-
-/forage-jpmc-swe-task-2/npm-debug.log*
-/forage-jpmc-swe-task-2/yarn-debug.log*
-/forage-jpmc-swe-task-2/yarn-error.log*
-
-
-# dependencies
-/forage-jpmc-swe-task-3/node_modules/
-/forage-jpmc-swe-task-3/.pnp/
-/forage-jpmc-swe-task-3/.pnp.js
-
-# testing
-/forage-jpmc-swe-task-3/coverage/
-
-# production
-/forage-jpmc-swe-task-3/build
-
-# misc
-/forage-jpmc-swe-task-3/.DS_Store
-/forage-jpmc-swe-task-3/.env.local
-/forage-jpmc-swe-task-3/.env.development.local
-/forage-jpmc-swe-task-3/.env.test.local
-/forage-jpmc-swe-task-3/.env.production.local
-
-/forage-jpmc-swe-task-3/npm-debug.log*
-/forage-jpmc-swe-task-3/yarn-debug.log*
-/forage-jpmc-swe-task-3/yarn-error.log*
+# Ignore debug logs for both tasks
+/forage-jpmc-swe-task-*/npm-debug.log*
+/forage-jpmc-swe-task-*/yarn-debug.log*
+/forage-jpmc-swe-task-*/yarn-error.log*

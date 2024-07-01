@@ -6,15 +6,15 @@ Explore the internship [here](https://www.theforage.com/virtual-internships/R5iK
 
 ## Assignments Overview
 
-### Assignment 1: Interface with a stock price data feed
+### [Assignment 1](https://github.com/joery0x3b800001/JPMorgan-Chase-Virtual-Internship/tree/main/forage-jpmc-swe-task-1): Interface with a stock price data feed
 - Interface with a stock price data feed to set up your system for data analysis.
 - Skills: `Financial Data`, `Python`, `Git`, `Basic Programming`
 
-### Assignment 2: Use JPMorgan Chase frameworks and tools
+### [Assignment 2](https://github.com/joery0x3b800001/JPMorgan-Chase-Virtual-Internship/tree/main/forage-jpmc-swe-task-2): Use JPMorgan Chase frameworks and tools
 - Implement the Perspective open-source code for data visualization.
 - Skills: `React`, `Typescript`, `Web Applications`
 
-### Assignment 3: Display data visually for traders
+### [Assignment 3](https://github.com/joery0x3b800001/JPMorgan-Chase-Virtual-Internship/tree/main/forage-jpmc-swe-task-3): Display data visually for traders
 - Utilize Perspective to create charts for a trading dashboard.
 - Skills: `Technical Communication`, `Financial Analysis`, `Web Applications`
 --- 

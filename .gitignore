@@ -1,3 +1,27 @@
 # Ignore Python virtual environment
 
 /venv/
+
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+forage-jpmc-swe-task-2/node_modules
+forage-jpmc-swe-task-2/.pnp
+forage-jpmc-swe-task-2/.pnp.js
+
+# testing
+forage-jpmc-swe-task-2/coverage
+
+# production
+forage-jpmc-swe-task-2/build
+
+# misc
+forage-jpmc-swe-task-2/.DS_Store
+forage-jpmc-swe-task-2/.env.local
+forage-jpmc-swe-task-2/.env.development.local
+forage-jpmc-swe-task-2/.env.test.local
+forage-jpmc-swe-task-2/.env.production.local
+
+forage-jpmc-swe-task-2/npm-debug.log*
+forage-jpmc-swe-task-2/yarn-debug.log*
+forage-jpmc-swe-task-2/yarn-error.log*

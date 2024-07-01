@@ -25,3 +25,26 @@
 /forage-jpmc-swe-task-2/npm-debug.log*
 /forage-jpmc-swe-task-2/yarn-debug.log*
 /forage-jpmc-swe-task-2/yarn-error.log*
+
+
+# dependencies
+/forage-jpmc-swe-task-3/node_modules/
+/forage-jpmc-swe-task-3/.pnp/
+/forage-jpmc-swe-task-3/.pnp.js
+
+# testing
+/forage-jpmc-swe-task-3/coverage/
+
+# production
+/forage-jpmc-swe-task-3/build
+
+# misc
+/forage-jpmc-swe-task-3/.DS_Store
+/forage-jpmc-swe-task-3/.env.local
+/forage-jpmc-swe-task-3/.env.development.local
+/forage-jpmc-swe-task-3/.env.test.local
+/forage-jpmc-swe-task-3/.env.production.local
+
+/forage-jpmc-swe-task-3/npm-debug.log*
+/forage-jpmc-swe-task-3/yarn-debug.log*
+/forage-jpmc-swe-task-3/yarn-error.log*
